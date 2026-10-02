@@ -1,0 +1,632 @@
+{
+ "google/imagen4": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "google/imagen4-ultra": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "google/imagen4-fast": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "google/nano-banana": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "qwen/text-to-image": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "bytedance/seedream": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "recraft/crisp-upscale": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "bytedance/seedream-v4-text-to-image": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "4o-image-api": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "flux1-kontext": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "grok-imagine/text-to-image": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "nano-banana-pro": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "flux-2/pro-text-to-image": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "flux-2/flex-text-to-image": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "seedream/4.5-text-to-image": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "z-image": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "gpt-image/1.5-text-to-image": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "ai-music-api/cover-generate": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "seedream/5-lite-text-to-image": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "nano-banana-2": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "qwen2/text-to-image": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "wan/2-7-image": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "wan/2-7-image-pro": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "gpt-image-2-text-to-image": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "nano-banana-2-lite": {
+  "longest": null,
+  "quality": "1K",
+  "sound": null
+ },
+ "seedream/5-pro-text-to-image": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "qwen3/pro-text-to-image": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "qwen3/text-to-image": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "grok-imagine-image-2-0/text-to-image": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "grok-imagine-image-2-0/segment-map": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "gpt-image-2-5-flare-text-to-image": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "gpt-image-2-5-sunburst-text-to-image": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "qwen2-1/text-to-image": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "seedream/5-flash-text-to-image": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "qwen/image-edit": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "ideogram/character": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "ideogram/character-edit": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "ideogram/character-remix": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "google/nano-banana-edit": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "qwen/image-to-image": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "recraft/remove-background": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "bytedance/seedream-v4-edit": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "topaz/image-upscale": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "flux-2/pro-image-to-image": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "flux-2/flex-image-to-image": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "seedream/4.5-edit": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "gpt-image/1.5-image-to-image": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "grok-imagine/image-to-image": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "seedream/5-lite-image-to-image": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "wan/2-7-r2v": {
+  "longest": 10,
+  "quality": "1080p",
+  "sound": false
+ },
+ "gpt-image-2-image-to-image": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "seedream/5-pro-image-to-image": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "qwen3/pro-image-to-image": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "qwen3/image-to-image": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "seedream/5-pro-layer-decomposition": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "grok-imagine-image-2-0/image-edit": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "gpt-image-2-5-flare-image-to-image": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "gpt-image-2-5-sunburst-image-to-image": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "qwen2-1/image-to-image": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "seedream/5-flash-image-to-image": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "seedream/5-flash-layer-decomposition": {
+  "longest": null,
+  "quality": "2K",
+  "sound": null
+ },
+ "kling/v2-1-master-text-to-video": {
+  "longest": 10,
+  "quality": null,
+  "sound": null
+ },
+ "bytedance/v1-pro-text-to-video": {
+  "longest": 10,
+  "quality": "1080p",
+  "sound": null
+ },
+ "bytedance/v1-lite-text-to-video": {
+  "longest": 10,
+  "quality": "1080p",
+  "sound": null
+ },
+ "ideogram/v3-text-to-image": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "wan/2-2-a14b-text-to-video-turbo": {
+  "longest": null,
+  "quality": "720p",
+  "sound": null
+ },
+ "runway": {
+  "longest": 10,
+  "quality": "1080p",
+  "sound": false
+ },
+ "hailuo/02-text-to-video-standard": {
+  "longest": 10,
+  "quality": "768p",
+  "sound": null
+ },
+ "hailuo/02-text-to-video-pro": {
+  "longest": null,
+  "quality": "1080p",
+  "sound": null
+ },
+ "kling/v2-5-turbo-text-to-video-pro": {
+  "longest": 10,
+  "quality": null,
+  "sound": null
+ },
+ "wan/2-5-text-to-video": {
+  "longest": 10,
+  "quality": "1080p",
+  "sound": null
+ },
+ "veo-3-1": {
+  "longest": 8,
+  "quality": "4K",
+  "sound": true
+ },
+ "ai-music-api/create-music-video": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "grok-imagine/text-to-video": {
+  "longest": 30,
+  "quality": "1080p",
+  "sound": null
+ },
+ "kling-2.6/text-to-video": {
+  "longest": 10,
+  "quality": null,
+  "sound": true
+ },
+ "wan/2-6-text-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": null
+ },
+ "veo/extend": {
+  "longest": null,
+  "quality": null,
+  "sound": null
+ },
+ "runway/extend-ai-video": {
+  "longest": null,
+  "quality": "1080p",
+  "sound": null
+ },
+ "kling-3.0/video": {
+  "longest": 15,
+  "quality": "4K",
+  "sound": true
+ },
+ "bytedance/seedance-2": {
+  "longest": 15,
+  "quality": "4K",
+  "sound": true
+ },
+ "bytedance/seedance-2-fast": {
+  "longest": 15,
+  "quality": "720p",
+  "sound": true
+ },
+ "wan/2-7-text-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": null
+ },
+ "happyhorse/text-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": null
+ },
+ "gemini-omni-video": {
+  "longest": 10,
+  "quality": "4K",
+  "sound": true
+ },
+ "kling/v3-turbo-text-to-video": {
+  "longest": null,
+  "quality": "1080p",
+  "sound": null
+ },
+ "happyhorse-1-1/text-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": null
+ },
+ "bytedance/seedance-2-mini": {
+  "longest": 15,
+  "quality": "720p",
+  "sound": true
+ },
+ "bytedance/seedance-2-5": {
+  "longest": 30,
+  "quality": "1080p",
+  "sound": true
+ },
+ "pixverse-v6/text-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": true
+ },
+ "pixverse-v6/transition": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": true
+ },
+ "minimax-h3/text-to-video": {
+  "longest": 15,
+  "quality": "2K",
+  "sound": true
+ },
+ "kling-3.0-omni/text-to-video": {
+  "longest": 15,
+  "quality": "4K",
+  "sound": true
+ },
+ "wan/3-0-video-prime": {
+  "longest": 30,
+  "quality": "1080p",
+  "sound": true
+ },
+ "wan/3-0-video": {
+  "longest": 30,
+  "quality": "1080p",
+  "sound": true
+ },
+ "google/gemini-omni-flash-1-1": {
+  "longest": 10,
+  "quality": "4K",
+  "sound": true
+ },
+ "kling/v2-1-master-image-to-video": {
+  "longest": 10,
+  "quality": null,
+  "sound": false
+ },
+ "kling/v2-1-pro": {
+  "longest": 10,
+  "quality": null,
+  "sound": false
+ },
+ "kling/v2-1-standard": {
+  "longest": 10,
+  "quality": null,
+  "sound": false
+ },
+ "bytedance/v1-pro-image-to-video": {
+  "longest": 10,
+  "quality": "1080p",
+  "sound": false
+ },
+ "bytedance/v1-lite-image-to-video": {
+  "longest": 10,
+  "quality": "1080p",
+  "sound": false
+ },
+ "wan/2-2-a14b-image-to-video-turbo": {
+  "longest": null,
+  "quality": "720p",
+  "sound": false
+ },
+ "hailuo/02-image-to-video-standard": {
+  "longest": 10,
+  "quality": "768p",
+  "sound": false
+ },
+ "hailuo/02-image-to-video-pro": {
+  "longest": 6,
+  "quality": "1080p",
+  "sound": false
+ },
+ "wan/2-2-animate-replace": {
+  "longest": 30,
+  "quality": "720p",
+  "sound": false
+ },
+ "wan/2-2-animate-move": {
+  "longest": 30,
+  "quality": "720p",
+  "sound": false
+ },
+ "kling/v2-5-turbo-image-to-video-pro": {
+  "longest": 10,
+  "quality": null,
+  "sound": false
+ },
+ "wan/2-5-image-to-video": {
+  "longest": 10,
+  "quality": "1080p",
+  "sound": false
+ },
+ "hailuo/2-3-image-to-video-pro": {
+  "longest": 10,
+  "quality": "1080p",
+  "sound": false
+ },
+ "hailuo/2-3-image-to-video-standard": {
+  "longest": 10,
+  "quality": "1080p",
+  "sound": false
+ },
+ "grok-imagine/image-to-video": {
+  "longest": 30,
+  "quality": "1080p",
+  "sound": null
+ },
+ "bytedance/v1-pro-fast-image-to-video": {
+  "longest": 10,
+  "quality": "1080p",
+  "sound": false
+ },
+ "kling-2.6/image-to-video": {
+  "longest": 10,
+  "quality": null,
+  "sound": true
+ },
+ "wan/2-6-image-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": false
+ },
+ "bytedance/seedance-1.5-pro": {
+  "longest": 12,
+  "quality": "1080p",
+  "sound": true
+ },
+ "wan/2-7-image-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": false
+ },
+ "happyhorse/image-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": false
+ },
+ "happyhorse/reference-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": false
+ },
+ "grok-imagine-video-1-5-preview": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": null
+ },
+ "omnihuman-1-5": {
+  "longest": null,
+  "quality": null,
+  "sound": true
+ },
+ "kling/v3-turbo-image-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": false
+ },
+ "happyhorse-1-1/image-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": false
+ },
+ "happyhorse-1-1/reference-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": false
+ },
+ "pixverse-v6/image-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": true
+ },
+ "minimax-h3/image-to-video": {
+  "longest": 15,
+  "quality": "2K",
+  "sound": true
+ },
+ "minimax-h3/reference-to-video": {
+  "longest": 15,
+  "quality": "2K",
+  "sound": false
+ },
+ "kling-3.0-omni/image-to-video": {
+  "longest": 15,
+  "quality": "4K",
+  "sound": true
+ }
+}

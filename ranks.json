@@ -1,0 +1,898 @@
+{
+ "Text to Video": {
+  "google/gemini-omni-flash-1-1": {
+   "position": 1,
+   "score": 1516,
+   "label": "1516",
+   "source": "LMArena 2026-10-01"
+  },
+  "gemini-omni-video": {
+   "position": 2,
+   "score": 1513,
+   "label": "1513",
+   "source": "LMArena 2026-10-01"
+  },
+  "bytedance/seedance-2": {
+   "position": 3,
+   "score": 1479,
+   "label": "1479",
+   "source": "LMArena 2026-10-01"
+  },
+  "wan/3-0-video": {
+   "position": 4,
+   "score": 1476,
+   "label": "1476",
+   "source": "LMArena 2026-10-01"
+  },
+  "bytedance/seedance-2-5": {
+   "position": 5,
+   "score": 1474,
+   "label": "1474",
+   "source": "LMArena 2026-10-01"
+  },
+  "minimax-h3/text-to-video": {
+   "position": 6,
+   "score": 1460,
+   "label": "1460",
+   "source": "LMArena 2026-10-01"
+  },
+  "happyhorse-1-1/text-to-video": {
+   "position": 7,
+   "score": null,
+   "label": "AA: above HappyHorse 1.0",
+   "source": "Artificial Analysis 2026-10-01"
+  },
+  "happyhorse/text-to-video": {
+   "position": 8,
+   "score": 1427,
+   "label": "1427",
+   "source": "LMArena 2026-10-01"
+  },
+  "kling-3.0-omni/text-to-video": {
+   "position": 9,
+   "score": null,
+   "label": "AA: above Veo 3.1",
+   "source": "Artificial Analysis 2026-10-01"
+  },
+  "kling-3.0/video": {
+   "position": 10,
+   "score": null,
+   "label": "AA: above Veo 3.1",
+   "source": "Artificial Analysis 2026-10-01"
+  },
+  "pixverse-v6/text-to-video": {
+   "position": 11,
+   "score": null,
+   "label": "AA: above Veo 3.1",
+   "source": "Artificial Analysis 2026-10-01"
+  },
+  "veo-3-1": {
+   "position": 12,
+   "score": 1364,
+   "label": "1364",
+   "source": "LMArena 2026-10-01"
+  },
+  "grok-imagine/text-to-video": {
+   "position": 13,
+   "score": 1342,
+   "label": "1342",
+   "source": "LMArena 2026-10-01"
+  },
+  "wan/2-7-text-to-video": {
+   "position": 14,
+   "score": 1337,
+   "label": "1337",
+   "source": "LMArena 2026-10-01"
+  },
+  "wan/2-6-text-to-video": {
+   "position": 15,
+   "score": 1327,
+   "label": "1327",
+   "source": "LMArena 2026-10-01"
+  },
+  "wan/2-5-text-to-video": {
+   "position": 16,
+   "score": 1245,
+   "label": "1245",
+   "source": "LMArena 2026-10-01"
+  },
+  "kling/v2-5-turbo-text-to-video-pro": {
+   "position": 17,
+   "score": 1220,
+   "label": "1220",
+   "source": "LMArena 2026-10-01"
+  },
+  "kling-2.6/text-to-video": {
+   "position": 18,
+   "score": 1216,
+   "label": "1216",
+   "source": "LMArena 2026-10-01"
+  },
+  "hailuo/02-text-to-video-pro": {
+   "position": 19,
+   "score": 1198,
+   "label": "1198",
+   "source": "LMArena 2026-10-01"
+  },
+  "bytedance/v1-pro-text-to-video": {
+   "position": 20,
+   "score": 1191,
+   "label": "1191",
+   "source": "LMArena 2026-10-01"
+  },
+  "hailuo/02-text-to-video-standard": {
+   "position": 21,
+   "score": 1181,
+   "label": "1181",
+   "source": "LMArena 2026-10-01"
+  },
+  "kling/v2-1-master-text-to-video": {
+   "position": 22,
+   "score": 1163,
+   "label": "1163",
+   "source": "LMArena 2026-10-01"
+  },
+  "wan/2-2-a14b-text-to-video-turbo": {
+   "position": 23,
+   "score": 1132,
+   "label": "1132",
+   "source": "LMArena 2026-10-01"
+  },
+  "bytedance/v1-lite-text-to-video": {
+   "position": 24,
+   "score": 1113,
+   "label": "1113",
+   "source": "LMArena 2026-10-01"
+  },
+  "wan/3-0-video-prime": {
+   "position": 25,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "bytedance/seedance-2-fast": {
+   "position": 26,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "bytedance/seedance-2-mini": {
+   "position": 27,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "kling/v3-turbo-text-to-video": {
+   "position": 28,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "runway": {
+   "position": 29,
+   "score": null,
+   "label": "no score (KIE does not say which Runway version)",
+   "source": null
+  },
+  "pixverse-v6/transition": {
+   "position": 30,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "veo/extend": {
+   "position": 31,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "runway/extend-ai-video": {
+   "position": 32,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "ai-music-api/create-music-video": {
+   "position": 33,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "ideogram/v3-text-to-image": {
+   "position": 34,
+   "score": null,
+   "label": "see Text to Image",
+   "source": null
+  }
+ },
+ "Text to Image": {
+  "gpt-image-2-5-sunburst-text-to-image": {
+   "position": 1,
+   "score": 1424,
+   "label": "1424",
+   "source": "LMArena 2026-10-01"
+  },
+  "gpt-image-2-5-flare-text-to-image": {
+   "position": 2,
+   "score": 1401,
+   "label": "1401",
+   "source": "LMArena 2026-10-01"
+  },
+  "gpt-image-2-text-to-image": {
+   "position": 3,
+   "score": 1383,
+   "label": "1383",
+   "source": "LMArena 2026-10-01"
+  },
+  "grok-imagine-image-2-0/text-to-image": {
+   "position": 4,
+   "score": 1301,
+   "label": "1301",
+   "source": "LMArena 2026-10-01"
+  },
+  "nano-banana-2": {
+   "position": 5,
+   "score": 1261,
+   "label": "1261",
+   "source": "LMArena 2026-10-01"
+  },
+  "seedream/5-pro-text-to-image": {
+   "position": 6,
+   "score": 1256,
+   "label": "1256",
+   "source": "LMArena 2026-10-01"
+  },
+  "qwen3/pro-text-to-image": {
+   "position": 7,
+   "score": 1255,
+   "label": "1256",
+   "source": "LMArena 2026-10-01"
+  },
+  "nano-banana-2-lite": {
+   "position": 8,
+   "score": 1250,
+   "label": "1250",
+   "source": "LMArena 2026-10-01"
+  },
+  "nano-banana-pro": {
+   "position": 9,
+   "score": 1247,
+   "label": "1247",
+   "source": "LMArena 2026-10-01"
+  },
+  "gpt-image/1.5-text-to-image": {
+   "position": 10,
+   "score": 1238,
+   "label": "1238",
+   "source": "LMArena 2026-10-01"
+  },
+  "qwen2-1/text-to-image": {
+   "position": 11,
+   "score": 1228,
+   "label": "1228",
+   "source": "LMArena 2026-10-01"
+  },
+  "qwen2/text-to-image": {
+   "position": 12,
+   "score": 1192,
+   "label": "1192",
+   "source": "LMArena 2026-10-01"
+  },
+  "grok-imagine/text-to-image": {
+   "position": 13,
+   "score": 1170,
+   "label": "1170",
+   "source": "LMArena 2026-10-01"
+  },
+  "flux-2/flex-text-to-image": {
+   "position": 14,
+   "score": 1157,
+   "label": "1157",
+   "source": "LMArena 2026-10-01"
+  },
+  "flux-2/pro-text-to-image": {
+   "position": 15,
+   "score": 1154,
+   "label": "1154",
+   "source": "LMArena 2026-10-01"
+  },
+  "google/nano-banana": {
+   "position": 16,
+   "score": 1150,
+   "label": "1150",
+   "source": "LMArena 2026-10-01"
+  },
+  "google/imagen4-ultra": {
+   "position": 17,
+   "score": 1148,
+   "label": "1148",
+   "source": "LMArena 2026-10-01"
+  },
+  "seedream/4.5-text-to-image": {
+   "position": 18,
+   "score": 1147,
+   "label": "1147",
+   "source": "LMArena 2026-10-01"
+  },
+  "bytedance/seedream-v4-text-to-image": {
+   "position": 19,
+   "score": 1140,
+   "label": "1140",
+   "source": "LMArena 2026-10-01"
+  },
+  "seedream/5-lite-text-to-image": {
+   "position": 20,
+   "score": 1138,
+   "label": "1138",
+   "source": "LMArena 2026-10-01"
+  },
+  "google/imagen4": {
+   "position": 21,
+   "score": 1129,
+   "label": "1129",
+   "source": "LMArena 2026-10-01"
+  },
+  "4o-image-api": {
+   "position": 22,
+   "score": 1116,
+   "label": "1116",
+   "source": "LMArena 2026-10-01"
+  },
+  "wan/2-7-image-pro": {
+   "position": 23,
+   "score": 1103,
+   "label": "1103",
+   "source": "LMArena 2026-10-01"
+  },
+  "wan/2-7-image": {
+   "position": 24,
+   "score": 1101,
+   "label": "1101",
+   "source": "LMArena 2026-10-01"
+  },
+  "z-image": {
+   "position": 25,
+   "score": 1084,
+   "label": "1084",
+   "source": "LMArena 2026-10-01"
+  },
+  "bytedance/seedream": {
+   "position": 26,
+   "score": 1082,
+   "label": "1082",
+   "source": "LMArena 2026-10-01"
+  },
+  "flux1-kontext": {
+   "position": 27,
+   "score": 1074,
+   "label": "1059–1074",
+   "source": "LMArena 2026-10-01"
+  },
+  "qwen/text-to-image": {
+   "position": 28,
+   "score": 1057,
+   "label": "1057",
+   "source": "LMArena 2026-10-01"
+  },
+  "ideogram/v3-text-to-image": {
+   "position": 29,
+   "score": 1048,
+   "label": "1048",
+   "source": "LMArena 2026-10-01"
+  },
+  "qwen3/text-to-image": {
+   "position": 30,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "seedream/5-flash-text-to-image": {
+   "position": 31,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "google/imagen4-fast": {
+   "position": 32,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "recraft/crisp-upscale": {
+   "position": 33,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "grok-imagine-image-2-0/segment-map": {
+   "position": 34,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "ai-music-api/cover-generate": {
+   "position": 35,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  }
+ },
+ "Image to Image": {
+  "gpt-image-2-5-sunburst-image-to-image": {
+   "position": 1,
+   "score": 1522,
+   "label": "1522",
+   "source": "LMArena 2026-10-01"
+  },
+  "gpt-image-2-5-flare-image-to-image": {
+   "position": 2,
+   "score": 1478,
+   "label": "1478",
+   "source": "LMArena 2026-10-01"
+  },
+  "gpt-image-2-image-to-image": {
+   "position": 3,
+   "score": 1461,
+   "label": "1461",
+   "source": "LMArena 2026-10-01"
+  },
+  "grok-imagine-image-2-0/image-edit": {
+   "position": 4,
+   "score": 1427,
+   "label": "1427",
+   "source": "LMArena 2026-10-01"
+  },
+  "seedream/5-pro-image-to-image": {
+   "position": 5,
+   "score": 1394,
+   "label": "1394",
+   "source": "LMArena 2026-10-01"
+  },
+  "nano-banana-pro": {
+   "position": 6,
+   "score": 1390,
+   "label": "1390",
+   "source": "LMArena 2026-10-01"
+  },
+  "nano-banana-2": {
+   "position": 7,
+   "score": 1387,
+   "label": "1387",
+   "source": "LMArena 2026-10-01"
+  },
+  "gpt-image/1.5-image-to-image": {
+   "position": 8,
+   "score": 1370,
+   "label": "1370",
+   "source": "LMArena 2026-10-01"
+  },
+  "qwen2-1/image-to-image": {
+   "position": 9,
+   "score": 1366,
+   "label": "1366",
+   "source": "LMArena 2026-10-01"
+  },
+  "grok-imagine/image-to-image": {
+   "position": 10,
+   "score": 1329,
+   "label": "1329",
+   "source": "LMArena 2026-10-01"
+  },
+  "nano-banana-2-lite": {
+   "position": 11,
+   "score": 1314,
+   "label": "1314",
+   "source": "LMArena 2026-10-01"
+  },
+  "wan/2-7-image-pro": {
+   "position": 12,
+   "score": 1303,
+   "label": "1303",
+   "source": "LMArena 2026-10-01"
+  },
+  "seedream/4.5-edit": {
+   "position": 13,
+   "score": 1302,
+   "label": "1302",
+   "source": "LMArena 2026-10-01"
+  },
+  "wan/2-7-image": {
+   "position": 14,
+   "score": 1301,
+   "label": "1301",
+   "source": "LMArena 2026-10-01"
+  },
+  "seedream/5-lite-image-to-image": {
+   "position": 15,
+   "score": 1294,
+   "label": "1294",
+   "source": "LMArena 2026-10-01"
+  },
+  "google/nano-banana-edit": {
+   "position": 16,
+   "score": 1293,
+   "label": "1293",
+   "source": "LMArena 2026-10-01"
+  },
+  "bytedance/seedream-v4-edit": {
+   "position": 17,
+   "score": 1270,
+   "label": "1270",
+   "source": "LMArena 2026-10-01"
+  },
+  "flux-2/pro-image-to-image": {
+   "position": 18,
+   "score": 1245,
+   "label": "1245",
+   "source": "LMArena 2026-10-01"
+  },
+  "qwen/image-edit": {
+   "position": 19,
+   "score": 1241,
+   "label": "1241",
+   "source": "LMArena 2026-10-01"
+  },
+  "flux-2/flex-image-to-image": {
+   "position": 20,
+   "score": 1225,
+   "label": "1225",
+   "source": "LMArena 2026-10-01"
+  },
+  "flux1-kontext": {
+   "position": 21,
+   "score": 1181,
+   "label": "1176–1181",
+   "source": "LMArena 2026-10-01"
+  },
+  "4o-image-api": {
+   "position": 22,
+   "score": 1139,
+   "label": "1139",
+   "source": "LMArena 2026-10-01"
+  },
+  "qwen3/pro-image-to-image": {
+   "position": 23,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "qwen3/image-to-image": {
+   "position": 24,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "seedream/5-flash-image-to-image": {
+   "position": 25,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "qwen/image-to-image": {
+   "position": 26,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "ideogram/character": {
+   "position": 27,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "ideogram/character-edit": {
+   "position": 28,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "ideogram/character-remix": {
+   "position": 29,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "topaz/image-upscale": {
+   "position": 30,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "recraft/remove-background": {
+   "position": 31,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "seedream/5-pro-layer-decomposition": {
+   "position": 32,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "seedream/5-flash-layer-decomposition": {
+   "position": 33,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "wan/2-7-r2v": {
+   "position": 34,
+   "score": null,
+   "label": "see Image to Video",
+   "source": null
+  }
+ },
+ "Image to Video": {
+  "minimax-h3/image-to-video": {
+   "position": 1,
+   "score": 1495,
+   "label": "1495",
+   "source": "LMArena 2026-10-01"
+  },
+  "google/gemini-omni-flash-1-1": {
+   "position": 2,
+   "score": 1488,
+   "label": "1488",
+   "source": "LMArena 2026-10-01"
+  },
+  "wan/3-0-video": {
+   "position": 3,
+   "score": 1480,
+   "label": "1480",
+   "source": "LMArena 2026-10-01"
+  },
+  "bytedance/seedance-2-5": {
+   "position": 4,
+   "score": 1477,
+   "label": "1477",
+   "source": "LMArena 2026-10-01"
+  },
+  "bytedance/seedance-2": {
+   "position": 5,
+   "score": 1475,
+   "label": "1475",
+   "source": "LMArena 2026-10-01"
+  },
+  "gemini-omni-video": {
+   "position": 6,
+   "score": 1465,
+   "label": "1465",
+   "source": "LMArena 2026-10-01"
+  },
+  "grok-imagine-video-1-5-preview": {
+   "position": 7,
+   "score": 1456,
+   "label": "1456",
+   "source": "LMArena 2026-10-01"
+  },
+  "happyhorse-1-1/image-to-video": {
+   "position": 8,
+   "score": null,
+   "label": "AA: above HappyHorse 1.0",
+   "source": "Artificial Analysis 2026-10-01"
+  },
+  "happyhorse/image-to-video": {
+   "position": 9,
+   "score": 1442,
+   "label": "1442",
+   "source": "LMArena 2026-10-01"
+  },
+  "wan/2-7-image-to-video": {
+   "position": 10,
+   "score": 1428,
+   "label": "1428",
+   "source": "LMArena 2026-10-01"
+  },
+  "grok-imagine/image-to-video": {
+   "position": 11,
+   "score": 1415,
+   "label": "1415",
+   "source": "LMArena 2026-10-01"
+  },
+  "veo-3-1": {
+   "position": 12,
+   "score": 1398,
+   "label": "1398",
+   "source": "LMArena 2026-10-01"
+  },
+  "pixverse-v6/image-to-video": {
+   "position": 13,
+   "score": null,
+   "label": "AA: just under Veo 3.1",
+   "source": "Artificial Analysis 2026-10-01"
+  },
+  "kling-3.0/video": {
+   "position": 14,
+   "score": 1354,
+   "label": "1354",
+   "source": "LMArena 2026-10-01"
+  },
+  "kling-3.0-omni/image-to-video": {
+   "position": 15,
+   "score": null,
+   "label": "AA: just under Kling 3.0",
+   "source": "Artificial Analysis 2026-10-01"
+  },
+  "wan/2-5-image-to-video": {
+   "position": 16,
+   "score": 1321,
+   "label": "1321",
+   "source": "LMArena 2026-10-01"
+  },
+  "wan/2-6-image-to-video": {
+   "position": 17,
+   "score": 1310,
+   "label": "1310",
+   "source": "LMArena 2026-10-01"
+  },
+  "bytedance/seedance-1.5-pro": {
+   "position": 18,
+   "score": 1307,
+   "label": "1307",
+   "source": "LMArena 2026-10-01"
+  },
+  "kling-2.6/image-to-video": {
+   "position": 19,
+   "score": 1294,
+   "label": "1294",
+   "source": "LMArena 2026-10-01"
+  },
+  "kling/v2-5-turbo-image-to-video-pro": {
+   "position": 20,
+   "score": 1276,
+   "label": "1276",
+   "source": "LMArena 2026-10-01"
+  },
+  "bytedance/v1-pro-image-to-video": {
+   "position": 21,
+   "score": 1273,
+   "label": "1273",
+   "source": "LMArena 2026-10-01"
+  },
+  "hailuo/2-3-image-to-video-pro": {
+   "position": 22,
+   "score": 1262,
+   "label": "1262",
+   "source": "LMArena 2026-10-01"
+  },
+  "hailuo/2-3-image-to-video-standard": {
+   "position": 23,
+   "score": 1261,
+   "label": "1262 (shared)",
+   "source": "LMArena 2026-10-01"
+  },
+  "kling/v2-1-master-image-to-video": {
+   "position": 24,
+   "score": 1235,
+   "label": "1235",
+   "source": "LMArena 2026-10-01"
+  },
+  "hailuo/02-image-to-video-pro": {
+   "position": 25,
+   "score": 1229,
+   "label": "1229",
+   "source": "LMArena 2026-10-01"
+  },
+  "kling/v2-1-standard": {
+   "position": 26,
+   "score": 1228,
+   "label": "1229",
+   "source": "LMArena 2026-10-01"
+  },
+  "hailuo/02-image-to-video-standard": {
+   "position": 27,
+   "score": 1224,
+   "label": "1224",
+   "source": "LMArena 2026-10-01"
+  },
+  "bytedance/v1-lite-image-to-video": {
+   "position": 28,
+   "score": 1185,
+   "label": "1185",
+   "source": "LMArena 2026-10-01"
+  },
+  "wan/2-2-a14b-image-to-video-turbo": {
+   "position": 29,
+   "score": 1170,
+   "label": "1170",
+   "source": "LMArena 2026-10-01"
+  },
+  "wan/3-0-video-prime": {
+   "position": 30,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "bytedance/seedance-2-fast": {
+   "position": 31,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "bytedance/seedance-2-mini": {
+   "position": 32,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "kling/v3-turbo-image-to-video": {
+   "position": 33,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "bytedance/v1-pro-fast-image-to-video": {
+   "position": 34,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "kling/v2-1-pro": {
+   "position": 35,
+   "score": null,
+   "label": "no public score yet",
+   "source": null
+  },
+  "runway": {
+   "position": 36,
+   "score": null,
+   "label": "no score (KIE does not say which Runway version)",
+   "source": null
+  },
+  "pixverse-v6/transition": {
+   "position": 37,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "wan/2-7-r2v": {
+   "position": 38,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "happyhorse-1-1/reference-to-video": {
+   "position": 39,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "happyhorse/reference-to-video": {
+   "position": 40,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "minimax-h3/reference-to-video": {
+   "position": 41,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "omnihuman-1-5": {
+   "position": 42,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "wan/2-2-animate-move": {
+   "position": 43,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "wan/2-2-animate-replace": {
+   "position": 44,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  },
+  "gemini-omni-character": {
+   "position": 45,
+   "score": null,
+   "label": "not ranked (special)",
+   "source": null
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "updatedAt": "2026-10-01",
+ "schema": 1,
+ "counts": {
+  "Text to Video": 34,
+  "Text to Image": 35,
+  "Image to Image": 34,
+  "Image to Video": 45
+ },
+ "sources": [
+  "LMArena leaderboards (arena.ai)",
+  "Artificial Analysis arena (artificialanalysis.ai)",
+  "KIE model catalogue and schemas (kie.ai)"
+ ]
+}
