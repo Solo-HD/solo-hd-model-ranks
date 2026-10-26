@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-01",
+ "updatedAt": "2026-10-26",
  "schema": 1,
  "counts": {
-  "Text to Video": 34,
-  "Text to Image": 35,
-  "Image to Image": 34,
-  "Image to Video": 45
+  "Text to Video": 37,
+  "Text to Image": 36,
+  "Image to Image": 35,
+  "Image to Video": 51
  },
  "sources": [
   "LMArena leaderboards (arena.ai)",

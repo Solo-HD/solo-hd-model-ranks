@@ -106,7 +106,7 @@
  },
  "wan/2-7-image": {
   "longest": null,
-  "quality": "4K",
+  "quality": "2K",
   "sound": null
  },
  "wan/2-7-image-pro": {
@@ -167,6 +167,16 @@
  "seedream/5-flash-text-to-image": {
   "longest": null,
   "quality": "2K",
+  "sound": null
+ },
+ "nano-banana-2-1": {
+  "longest": null,
+  "quality": "4K",
+  "sound": null
+ },
+ "flux-3/klein-text-to-image": {
+  "longest": null,
+  "quality": "4K",
   "sound": null
  },
  "qwen/image-edit": {
@@ -474,6 +484,21 @@
   "quality": "4K",
   "sound": true
  },
+ "kling-4.0/keyframe-to-video": {
+  "longest": 30,
+  "quality": "1080p",
+  "sound": null
+ },
+ "kling-4.0/reference-to-video": {
+  "longest": 30,
+  "quality": "1080p",
+  "sound": true
+ },
+ "pixverse-v6-max/text-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": true
+ },
  "kling/v2-1-master-image-to-video": {
   "longest": 10,
   "quality": null,
@@ -564,11 +589,6 @@
   "quality": "1080p",
   "sound": false
  },
- "bytedance/seedance-1.5-pro": {
-  "longest": 12,
-  "quality": "1080p",
-  "sound": true
- },
  "wan/2-7-image-to-video": {
   "longest": 15,
   "quality": "1080p",
@@ -587,7 +607,7 @@
  "grok-imagine-video-1-5-preview": {
   "longest": 15,
   "quality": "1080p",
-  "sound": null
+  "sound": true
  },
  "omnihuman-1-5": {
   "longest": null,
@@ -627,6 +647,31 @@
  "kling-3.0-omni/image-to-video": {
   "longest": 15,
   "quality": "4K",
+  "sound": true
+ },
+ "vidu-q4/image-to-video": {
+  "longest": 16,
+  "quality": "4K",
+  "sound": true
+ },
+ "vidu-q4/reference-to-video": {
+  "longest": 16,
+  "quality": "4K",
+  "sound": true
+ },
+ "wan/2-6-flash-image-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": true
+ },
+ "pixverse-v6-max/image-to-video": {
+  "longest": 15,
+  "quality": "1080p",
+  "sound": true
+ },
+ "omnihuman-2-0": {
+  "longest": null,
+  "quality": "720p",
   "sound": true
  }
 }
